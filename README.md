@@ -8,6 +8,4 @@
 
 ---
 
-![GitHub stats](https://stats.52xckl.cn/api?username=ccmfirst&count_private=true&show_icons=true)
-
-![Top Langs](https://stats.52xckl.cn/api/top-langs/?username=ccmfirst&layout=compact&hide=html,css)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmfirst)](https://github.com/anuraghazra/github-readme-stats)
