@@ -7,5 +7,4 @@
 从事 [算法工程师]() 工作，目前主要使用语言为 [GoLang](https://golang.org) ，同样熟悉 [Java](https://java.com) 、[Python](https://www.python.org) 等。
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmfirst)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmfirst)
